@@ -1,3 +1,4 @@
 
 if __name__ == '__main__':
 	print 'why are there so many different files that just print things?'
+	print 'Because I don't want to write real code right now'
