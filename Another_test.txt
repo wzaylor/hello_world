@@ -1,0 +1,3 @@
+
+if __name__ == '__main__':
+	print 'why are there so many different files that just print things?'
